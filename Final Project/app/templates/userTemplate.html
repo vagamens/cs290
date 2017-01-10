@@ -1,0 +1,13 @@
+{% extends "template.html" %}
+{% block body %}
+<div class="nav-main-container">
+	<div class="nav-unit">
+		<a href="{{ url_for('index.index') }}">Home</a>
+	</div>
+	<div class="nav-unit">
+		<a href="{{ url_for('user.profile') }}">Profile</a>
+	</div>
+</div>
+{% block main %}
+{% endblock %}
+{% endblock %}
