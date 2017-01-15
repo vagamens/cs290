@@ -16,3 +16,17 @@ div.metanav { font-align: left; font-size: 0.8em; padding: 0.3em; background: #3
 div.botnav { color: #377ba0; text-align: center; font-size: 0.8em; padding: 0.3em; }
 a.metanav { color: #fff; }
 a.botnav { color: #377ba0; border-top: 2px solid #eee; }
+
+table.test tr:nth-child(even) { background: white; }
+table.test tr:nth-child(odd) { background: gray; }
+tr.bottom { border-bottom: 1px solid black; }
+table {width: 100%; margin: 0px; border-collapse: collapse;}
+table.test tr td {border-left: 1px solid black; border-right: 1px solid black;}
+th { background: black; color: white; }
+td#f { border: 0px; }
+table tr#al {text-align: left;}
+table tr#ar {text-align: right;}
+table tr td#br { border-bottom: 1px solid black; text-align: right; }
+table tr td#bl { border-bottom: 1px solid black; text-align: left; }
+table tr.empty { border: 0px; }
+td#q, td#r, td#h, td#t { text-align: left; }
