@@ -4,7 +4,7 @@ h1, h2 { color: #377ba8; }
 h1, h2 { font-family: 'Georgia', serif; margin: 0; }
 h2 { font-size: 1.1em; border-bottom: 2px solid #eee; margin: 3; }
 h5 { text-align: center; }
-.page { margin: 2em auto; max-width: 40em; border: 5px solid #ccc; padding 0.8em; background: white; }
+.page { margin: 2em auto; max-width: 1280px; border: 5px solid #ccc; padding 0.8em; background: white; }
 .entries { list-style: none; margin: 0; padding: 0; }
 .entries li { list-style: none; margin: 0; padding: 0; }
 .entries li h2 { margin: 0.8em 1.2em; }
@@ -30,3 +30,5 @@ table tr td#br { border-bottom: 1px solid black; text-align: right; }
 table tr td#bl { border-bottom: 1px solid black; text-align: left; }
 table tr.empty { border: 0px; }
 td#q, td#r, td#h, td#t { text-align: left; }
+
+video { margin-top: 10px; }
