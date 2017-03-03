@@ -1,6 +1,6 @@
-from app import db
+#from app import db
 
-class Student():
+class User():
 
 	__tablename__ = "Users"
 
