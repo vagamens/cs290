@@ -8,6 +8,10 @@ from contextlib import closing
 mod = Blueprint('shakespeare', __name__, url_prefix='shakespeare')
 
 @mod.route("/")
-def index():
+def shakespeare():
 	flash("test")
-	return render_template("index/index.html")
+	return render_template("shakespeare/game.html")
+
+@mod.route("/game", methods=['POST'])
+def game():
+	pass

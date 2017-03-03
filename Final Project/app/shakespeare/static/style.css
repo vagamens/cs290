@@ -1,0 +1,40 @@
+body {
+	background: #8c5f38;
+}
+
+main {
+	position: absolute;
+	background: #573a21;
+	color: #ffa86e;
+	top: 5px;
+	left: 5px;
+	bottom: 65px;
+	right: 6px;
+}
+
+nav {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
+
+nav ul {
+	list-style: none;
+	margin: auto;
+	width: 75%;
+}
+
+nav ul li button {
+	float: left;
+	font: inherit;
+	padding: 10px;
+	margin: 10px 20px;
+	background: #24170c;
+	color: #ffa86e;
+	border: 1px solid black;
+}
+
+nav ul li button:hover {
+	background: #573a21;
+}
