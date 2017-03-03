@@ -5,7 +5,7 @@ from flask import g, redirect, url_for, abort
 from flask import render_template, falsh
 from contextlib import closing
 
-mod = Blueprint('index', __name__, url_prefix='')
+mod = Blueprint('shakespeare', __name__, url_prefix='shakespeare')
 
 @mod.route("/")
 def index():
