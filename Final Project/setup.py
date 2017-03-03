@@ -1,16 +1,8 @@
 #!/bin/env python3
 import os
-import sys
 import platform
 
 def main():
-	if(sys.version_info >= (3,0)):
-		print("Python3 detected. Continuing install.\n")
-	else:
-		print("For everything is working correctly,")
-		print("make sure that you have python3 installed.")
-		print("Please install python3")
-		return
 	if (platform.system() == 'Linux') :
 		os.system("sudo pip install flask")
 		os.system("sudo pip install flask-wtf")
