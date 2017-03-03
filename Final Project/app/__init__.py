@@ -26,11 +26,11 @@ def installSecretKey(app, filename='secret_key'):
 		print('head -c 24 /dev/urandom > {filename}'.format(filename=filename))
 		sys.exit(1)
 
-if not app.config['DEBUG']
+if not app.config['DEBUG']:
 	installSecretKey(app)
 
-from app.index.views import mod as indexModule
-app.register_blueprint(indexModule)
+from app.shakespeare.views import mod as shakespeareModule
+app.register_blueprint(shakespeareModule)
 
 from app.users.views import mod as userModule
 app.register_blueprint(userModule)
