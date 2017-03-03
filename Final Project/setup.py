@@ -8,7 +8,7 @@ def main():
 		os.system("sudo pip install flask-wtf")
 	else:
 		os.system("pip install flask")
-		os.system("sudo pip install flask-wtf")
+		os.system("pip install flask-wtf")
 
 	f = False
 	wtf = False
