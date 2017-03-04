@@ -38,3 +38,8 @@ nav ul li button {
 nav ul li button:hover {
 	background: #573a21;
 }
+
+p {
+	margin: 0;
+	padding: 0;
+}

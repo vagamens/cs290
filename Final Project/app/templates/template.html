@@ -8,12 +8,12 @@
 		<div class="page">
 			<h1>Flask App Template</h1>
 			<h2>The best template since sliced bread </h2>
-			{% for message in get_flasked_messages() %}
+			{% for message in get_flashed_messages() %}
 			<div class="flash">{{ message }}</div>
-			<% endfor %}
+			{% endfor %}
 			<h3>{% block name %}{% endblock %}</h3>
 			<div class="container">
-			{% block body %}{% endblock 5]
+			{% block body %}{% endblock %}
 			</div>
 		</div>
 	</body>

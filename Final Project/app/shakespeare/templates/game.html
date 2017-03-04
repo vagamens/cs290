@@ -1,0 +1,30 @@
+{% extends "shakespeareTemplate.html" %}
+{% block head %}
+<script type="text/javascript" src="{{ url_for('shakespeare.static', filename='js/game.js') }}"></script>
+{% endblock %}
+{% block body %}
+<main id="main">
+</main>
+<nav>
+	<ul>
+		<li>
+			<button type="button" onClick="javascript:button(1)" >Button 1</button>
+		</li>
+		<li>
+			<button type="button" onClick="javascript:button(2)" >Button 2</button>
+		</li>
+		<li>
+			<button type="button" onClick="javascript:button(3)" >Button 3</button>
+		</li>
+		<li>
+			<button type="button" onClick="javascript:reset()" >Reset</button>
+		</li>
+		<li>
+			<button type="button" onClick="javascript:testJSON()">Test Button</button>
+		</li>
+		<li>
+			<button type="button" onClick="javascript:getInsult()">Test Button</button>
+		</li>
+	</ul>
+</nav>
+{% endblock %}
