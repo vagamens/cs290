@@ -1,31 +1,71 @@
+function addNav(element) {
+	var nav = document.getElementById('nav');
+	var li = document.createElement('li');
+	li.appendChild(element);
+	nav.appendChild(li);
+}
+
+function setNav(content) {
+	var nav = document.getElementById('nav');
+	nav.innterHTML = content;
+}
+
 function setMain(content) {
 	var main = document.getElementById('main');
 	main.innerHTML = content;
 }
 
-function addMain(content) {
+function createButton(com, text) {
+	var button = document.createElement('button');
+	var t = document.createTextNode(text);
+	var click = document.createAttribute('onClick');
+	click.value = 'javascript:button(\''+com+'\')';
+	button.setAttributeNode(click);
+	button.appendChild(t);
+	return button;
+}
+
+function addMain(element) {
 	var main = document.getElementById('main');
+	main.appendChild(element);
+}
+
+function addContent(content) {
 	var text = document.createTextNode(content);
 	var para = document.createElement('p');
 	para.appendChild(text);
-	main.appendChild(para);
+	addMain(para);
 }
 
-function button(but) {
-	var content = 'Button ';
-	if(but === 1) {
-		content = content + '1 ';
-	} else if (but === 2) {
-		content = content + '2 ';
-	} else if (but === 3) {
-		content = content + '3 ';
-	}
-	content = content + 'was clicked.';
-	addMain(content);
-}
-
-function reset() {
+function resetMain() {
 	setMain('');
+}
+
+function button(command) {
+	var data = {};
+	if(command === 1) {
+		addContent('Button 1 was clicked.');
+		addNav(createButton('test', 'test'));
+	} else if (command === 2) {
+		addContent('Button 2 was clicked.');
+	} else if (command === 3) {
+		addContent('Button 3 was clicked.');
+	} else if (command === 'insult') {
+		data = {'command': 'insult'};
+		sendRequest(data);
+	} else if (command === 'reset') {
+		resetMain();
+	} else if (command === 'test') {
+		addContent('Button creation works!!!!!');
+	}
+}
+
+function addJSONMain(j) {
+	j = JSON.parse(j);
+	if(j['command'] === 'insult') {
+		addContent('You have been insulted:');
+		addContent('\t'+j['insult']);
+	}
 }
 
 function sendRequest(data) {
@@ -37,24 +77,10 @@ function sendRequest(data) {
 	}
 	xmlhttp.open("POST", '/shakespeare/game', true);
 	xmlhttp.setRequestHeader("Content-type", "application/json");
-	xmlhttp.onReadyStateChange = function() {
-		if(xmlhttp.status == 200) {
-			addMain(JSON.stringify(JSON.parse(this.response)));
+	xmlhttp.onreadystatechange = function (e) {
+		if(xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+			addJSONMain(xmlhttp.response);
 		}
-	}
+	};
 	xmlhttp.send(JSON.stringify(data));
-}
-
-function testJSON() {
-	var data = { 'command':'', 'name': 'Kevin', 'password': 'thisIsMyPassword'};
-	var response = sendRequest(data);
-	addMain(JSON.stringify(data));
-	addMain(response);
-	addMain(typeof response);
-}
-
-function getInsult() {
-	var data = {'command': 'insult'};
-	response = sendRequest(data);
-	console.log(response);
 }

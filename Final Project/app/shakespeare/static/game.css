@@ -22,14 +22,14 @@ nav {
 nav ul {
 	list-style: none;
 	margin: auto;
-	width: 75%;
+	width: 50%;
 }
 
 nav ul li button {
 	float: left;
 	font: inherit;
 	padding: 10px;
-	margin: 10px 20px;
+	margin: 10px 10px;
 	background: #24170c;
 	color: #ffa86e;
 	border: 1px solid black;
