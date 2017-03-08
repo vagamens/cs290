@@ -1,0 +1,15 @@
+ - rewrite Act II to be from Viola's perspective
+
+ - create backgrounds for each location.
+ 	- At sea on a boat
+ 	- Duke Orsino's palace
+ 	- Olivia's house
+ 	- a street
+ 	- Olivia's garden
+ 	- Before Olivia's house
+
+ - javascript tick function
+
+ - write update function
+
+ - do screen updates on tick
