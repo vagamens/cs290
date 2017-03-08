@@ -12,7 +12,9 @@ words[0] = ["artless", "bawdy", "beslubbering", "bootless", "churlish",
 			"pribbling", "puking", "puny", "qualling", "rank", "reeky",
 			"roguish", "ruttish", "saucy", "spleeny", "spongy", "surly",
 			"tottering", "unmuzzled", "vain", "venomed", "villainous",
-			"warped", "wayward", "weedy", "yeasty"
+			"warped", "wayward", "weedy", "yeasty", "cullionly", "fusty",
+			"caluminous", "wimpled", "burly-boned", "misbegotten", "odiferous",
+			"poisonous", "fishified", "Wart-necked"
 			]
 
 words[1] = ["base-court", "bat-fowling", "beef-witted", "beetle-headed",
@@ -27,7 +29,10 @@ words[1] = ["base-court", "bat-fowling", "beef-witted", "beetle-headed",
 			"plume-plucked", "pottle-deep", "pox-marked", "reeling-ripe",
 			"rough-hewn", "rude-growing", "rump-fed", "shard-borne",
 			"sheep-biting", "spur-galled", "swag-bellied", "tardy-gaited",
-			"tickle-brained", "toad-spotted", "unchin-snouted", "weather-bitten"
+			"tickle-brained", "toad-spotted", "unchin-snouted", "weather-bitten", 
+			"whoreson", "malmsey-nosed", "rampallian", "lily-livered", "scurvy-valiant",
+			"brazen-faced", "unwash'd", "bunch-back'd", "leaden-footed", "muddy-mettled",
+			"pigeon-liver'd", "scale-sided"
 			]
 
 words[2] =  ["apple-john", "baggage", "barnacle", "bladder", "boar-pig",
@@ -40,7 +45,9 @@ words[2] =  ["apple-john", "baggage", "barnacle", "bladder", "boar-pig",
 			"measle", "minnow", "miscreant", "moldwarp", "mumble-news",
 			"nut-hook", "pigeon-egg", "pignut", "puttock", "pumpion",
 			"ratsbane", "scut", "skainsmate", "strumpet", "varlot",
-			"vassal", "whey-face", "wagtail"
+			"vassal", "whey-face", "wagtail", "knave", "blind-worm", "popinjay",
+			"scullian", "jolt-head", "malcontent", "devil-monk", "toad", "rascal",
+			"Basket-Cockle"
 			]
 
 def generateInsult():

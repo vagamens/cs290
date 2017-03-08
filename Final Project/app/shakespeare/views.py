@@ -9,6 +9,12 @@ from models import generateInsult
 mod = Blueprint('shakespeare', __name__, url_prefix='/shakespeare',
 				template_folder='templates', static_folder='static')
 
+lines = {}
+
+lines['acti'] = [[], [], [], [], [], []]
+lines['actii'] = [[], [], [], [], [], []]
+lines['actiii'] = [[], [], [], [], [], []]
+
 @mod.route("/")
 def shakespeare():
 	flash("test")
