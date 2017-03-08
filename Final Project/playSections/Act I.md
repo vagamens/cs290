@@ -290,6 +290,17 @@
 				that crow so that these set kind of fools, no better
 				than the fools' zanies.
 
+**Olivia**:		Oh, you are sick of self-love, Malvolio, and taste
+				with a distempered appetite. To be generous,
+				guiltless and of free disposition, is to take those
+				things for bird-bolts that you deem cannon-bullets:
+				there is no slander in an allowed fool, though he do
+				nother but rail; nor no railing in a known descreet
+				man, though he do nother be reprove.
+
+**Feste**:		Now Mercury endue thee with leasing, for thou
+				speakest well of fools!
+
 [Enter Olivia, Feste, Maria]
 
 **Olivia**: Give me my veil: come, throw it o'er my face.
