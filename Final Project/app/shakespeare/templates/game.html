@@ -3,22 +3,16 @@
 <script type="text/javascript" src="{{ url_for('shakespeare.static', filename='js/game.js') }}"></script>
 {% endblock %}
 {% block body %}
-<main id="main">
+<main id="main" style="background-image: url({{ url_for('shakespeare.static', filename='imgs/street.png') }})">
+	<div class="name">
+		<p class="name">Curio</p>
+	</div>
+	<div class="text">
+		<p class="text">
+			Feste, the jester, my lord; a fool that the lady<br>
+			Olivia's fater took much delight in. He is about the house.
+		</p>
+	</div>
+	<a class="next" href="javascript:next()">&gt;&gt;&gt;</a>
 </main>
-<nav>
-	<ul id="nav">
-		<li>
-			<button type="button" onClick="javascript:button(1)" >Button 1</button>
-		</li>
-		<li>
-			<button type="button" onClick="javascript:button(2)" >Button 2</button>
-		</li>
-		<li>
-			<button type="button" onClick="javascript:button(3)" >Button 3</button>
-		</li>
-		<li>
-			<button type="button" onClick="javascript:button('insult')">Insult</button>
-		</li>
-	</ul>
-</nav>
 {% endblock %}
