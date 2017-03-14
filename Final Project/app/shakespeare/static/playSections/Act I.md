@@ -411,6 +411,8 @@
 **Olivia**:			Give me my veil: come, throw it o'er my face.
 					We'll once more hear Orsino's embassy.
 
+### end rewritten section
+
 [Enter Viola and Attendants]
 
 **Viola**:	The honorable lady of the house, which is she?

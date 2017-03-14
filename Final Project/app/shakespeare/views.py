@@ -4,16 +4,10 @@ from flask import Blueprint, request, session
 from flask import g, redirect, url_for, abort
 from flask import render_template, flash, jsonify
 from contextlib import closing
-from models import generateInsult
+from app.models import Insult
 
 mod = Blueprint('shakespeare', __name__, url_prefix='/shakespeare',
 				template_folder='templates', static_folder='static')
-
-lines = {}
-
-lines['acti'] = [[], [], [], [], [], []]
-lines['actii'] = [[], [], [], [], [], []]
-lines['actiii'] = [[], [], [], [], [], []]
 
 @mod.route("/")
 def shakespeare():
@@ -29,6 +23,6 @@ def game():
 	print type(j)
 	response['command'] = j['command']
 	if(j['command'] == 'insult'): 
-		response['insult'] = generateInsult()
+		response['insult'] = Insult.generateInsult()
 	print response
 	return jsonify(response)
