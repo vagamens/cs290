@@ -1,7 +1,7 @@
 import re
 
 def removeWhiteSpace(line):
-	if(line == ''):
+	if(line == '' or line == '\n'):
 		return ''
 	if(line[0] == "\t"):
 		line = line[1:]
@@ -41,37 +41,43 @@ def parseRoman(line):
 				val+=5
 	return val
 
-lines = {}
 
-with open("static/playSections/Act I.md", 'r') as f:
-	act = 0
-	scene = 0
-	l = {'name':'', 'line':''}
-	for line in f:
-		name, line = getName(line)
-		line = line
-		if line[0] == "#" and line[1] == ' ':
-			act = parseRoman(line)
-		elif line[0:3] == "###":
-			pass
-		elif line[0] == "#" and line[1] ==  "#":
-			scene = parseRoman(line)
-			print "Act: "+str(act)
-			print "Scene: "+str(scene)
-			lines[act] = {}
-			lines[act][scene] = []
-		if name != None:
-			lines[act][scene].append(l)
-			l = {}
-			l['name'] = name
-			l['line'] = ''
-			print name+":"
-		if line[0] == "#":
-			pass
-		elif line[0] == '[':
-			print removeWhiteSpace(line)
-		else:
-			l['line'] = l['line']+removeWhiteSpace(line)+"\n"
-			print '  '+removeWhiteSpace(line)
+def getLines():
+	lines = {1:{1:[], 2:[], 3:[], 4:[]}, 2:{}, 3:{}, 4:{}}
+	
+	with open("static/script.md", 'r') as f:
+		act = 0
+		scene = 0
+		l = {'name':'', 'line':''}
+		for line in f:
+			name, line = getName(line)
+			line = line
+			if name != None:
+				lines[act][scene].append(l)
+				l = {}
+				l['name'] = name
+				l['line'] = ''
+			if line[0] == "#":
+				num = parseRoman(line)
+				if line[1] == ' ':
+					act = num
+					lines[act] = {}
+				elif line[1] == "#":
+					scene = num
+					lines[act][scene] = []
+			if line[0] == "#":
+				pass
+			elif line[0] == '[':
+				pass
+			else:
+				l['line'] = l['line']+removeWhiteSpace(line)+"\n"
+
+	for act in lines:
+		for scene in lines[act]:
+			for line in range(len(lines[act][scene])):
+				lines[act][scene][line]['line'] = removeWhiteSpace(lines[act][scene][line]['line'])
+	return lines
+
+lines = getLines()
 
 print lines

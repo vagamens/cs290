@@ -1,14 +1,14 @@
 # Act II
 
-## Scene II
+## Scene I
 
 [A street]()
 
-[Enter Viola, Malvolio following]()
+[Enter Cesario, Malvolio following]()
 
 **Malvolio**:	Were not you even now with the Countess Olivia?
 
-**Viola**:		Even now, sir; on a moderate pace I have since
+**Cesario**:		Even now, sir; on a moderate pace I have since
 				arrive but hither.
 
 **Malvolio**:	She returns this ring to you, sir: you might have
@@ -19,7 +19,7 @@
 				come again in his affairs, unless it be to report
 				your lord's taking of this. Receive it so.
 
-**Viola**:		She took the ring of me: I'll none of it.
+**Cesario**:		She took the ring of me: I'll none of it.
 
 **Malvolio**:	Come, sir, you peevishly threw it to her; and her
 				will is, it should be so returned: if it be worth
@@ -30,7 +30,7 @@
 
 [Exit Malvolio]()
 
-**Viola**:		I left no ring with her: what means this lady?
+**Cesario**:		I left no ring with her: what means this lady?
 				Fortune forbid my outside have not charm'd her!
 				She made good view of me, indeed, so much,
 				That sure methought her eyes has lost her tounge,
@@ -56,13 +56,13 @@
 				Oh time! though must untangle this, not I:
 				It is too hard a know for me to untie!
 
-[Exit Viola]()
+[Exit Cesario]()
 
-## Scene IV
+## Scene II
 
 [Duke Orsino's palace]()
 
-[Enter Duke Orsino, Viola, Curio, and others]()
+[Enter Duke Orsino, Cesario, Curio, and others]()
 
 **Orsino**:	Give moe some music. Now, good morrow, friends.
 			Now, good Cesario, but that piece of song,
@@ -88,7 +88,7 @@
 			Save in the constant image of the createure
 			That is beloved. How dost thou like this tune?
 
-**Viola**:	It give a very echo to the seat
+**Cesario**:	It give a very echo to the seat
 			Where Love is throned.
 
 **Orsino**:	Thou dost speak masterly:
@@ -96,15 +96,15 @@
 			Hath stay'd upon some favour that it loves:
 			Hath it not, boy?
 
-**Viola**:	A little, by your favour.
+**Cesario**:	A little, by your favour.
 
 **Orsino**:	What kind of woman is't?
 
-**Viola**:	Of your complexion.
+**Cesario**:	Of your complexion.
 
 **Orsino**:	She is not worth thee, then. What years, i' faith?
 
-**Viola**:	About your years, my lord.
+**Cesario**:	About your years, my lord.
 
 **Orsino**:	Too old by heaven: let still the woman take
 			An elder than herself: so wears she to him,
@@ -114,14 +114,14 @@
 			More longing, wavering, sooner lost and worn,
 			Than women's are.
 
-**Viola**:	I think it well, my lord.
+**Cesario**:	I think it well, my lord.
 
 **Orsino**:	Then let love be younger than thyself,
 			Or thy affection cannot hold the bent;
 			For women are as roses, whose fair flower
 			Being once display'd, doth fall that very hour.
 
-**Viola**:	And so they are: alas, that are so;
+**Cesario**:	And so they are: alas, that are so;
 			To die, even when they to perfection grow!
 
 [Re-ender Curio and Clown]()
@@ -186,11 +186,11 @@
 			But 'tis that miracle and queen of gems
 			That nature pranks her in attracts my soul.
 
-**Viola**:	But if she cannot love you, sir?
+**Cesario**:	But if she cannot love you, sir?
 
 **Orsino**:	I cannot be so answer'd.
 
-**Viola**:	Sooth, but you must.
+**Cesario**:	Sooth, but you must.
 			Say that some lady, as perhaps there is,
 			Hath for you love a great a pang of heart
 			As you have for Olivia: you cannot lover her;
@@ -208,11 +208,11 @@
 			Between that love a woman can bear me
 			And that I owe Olivia.
 
-**Viola**:	Ay, but I know --
+**Cesario**:	Ay, but I know --
 
 **Orsino**:	What does thou know?
 
-**Viola**:	Too well that love women to men may owe:
+**Cesario**:	Too well that love women to men may owe:
 			In faith, they are as true of heart as we.
 			My fater had a daughter loved a man,
 			As it might be, perhaps, were I a woman,
@@ -220,7 +220,7 @@
 
 **Orsino**:	And what's her history?
 
-**Viola**:	A blank, my lord. She never told her love,
+**Cesario**:	A blank, my lord. She never told her love,
 			But let concealment, like a worm i' the bud,
 			Feed on her damask cheek: she pined in though,
 			And with a green and yellow melancholy
@@ -232,7 +232,7 @@
 
 **Orsino**:	But died thy sister of her love, my boy?
 
-**Viola**:	I am all the daughters of my father's house,
+**Cesario**:	I am all the daughters of my father's house,
 			And all the brothers too: and yet I know not.
 			Sir, shall I to this lady?
 

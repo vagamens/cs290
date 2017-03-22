@@ -4,20 +4,20 @@
 
 [Olivia's garden]()
 
-[Enter Viola, and Clown with a tabour]()
+[Enter Cesario, and Clown with a tabour]()
 
-**Viola**:	Save thee, friend, and thy music: dost thou live by
+**Cesario**:	Save thee, friend, and thy music: dost thou live by
 			thy tabour?
 
 **Feste**:	No, sir, I live by the church.
 
-**Viola**:	Art thou a churchman?
+**Cesario**:	Art thou a churchman?
 
 **Feste**:	No such matter, sir: I do live by the church; for
 			I do live at my house, and my house doth stand by
 			the church.
 
-**Viola**:	So thou mayst say, the king lies by a begger, if a
+**Cesario**:	So thou mayst say, the king lies by a begger, if a
 			beggar dwell near him; or, the church stands by thy
 			tabour, if thy tabour stand by the church.
 
@@ -25,30 +25,30 @@
 			but a cheveril glove to a good wit: how quickly the
 			wrong side my be turned outward.
 
-**Viola**:	Nay, that's certain; they that dally nicely with
+**Cesario**:	Nay, that's certain; they that dally nicely with
 			words may quickly make them wanton.
 
 **Feste**:	I would, therefore, my sister had had no name, sir.
 
-**Viola**:	Why, man?
+**Cesario**:	Why, man?
 
 **Feste**:	WHy, sir, her name's a word; and to dally with that
 			word might make my sister wanton. But indeed words
 			are very rascals since bonds disgraced them.
 
-**Viola**:	Thy reason, man?
+**Cesario**:	Thy reason, man?
 
 **Feste**:	Troth, sir, I can yield you non without words; and
 			words are grown so false, I am loath to prove
 			reason with them.
 
-**Viola**:	I warrant thou art a merry fellow and carest for nothing.
+**Cesario**:	I warrant thou art a merry fellow and carest for nothing.
 
 **Feste**:	No so, sir I do care for something; but in my
 			conscience, sir, I do not care for you: if that be
 			to care for nothing, sir, I would make you invisible.
 
-**Viola**:	Art thou the Lady Olivia's fool?
+**Cesario**:	Art thou the Lady Olivia's fool?
 
 **Feste**:	No, indeed, sir; the Lady Olivia has no folly: she
 			will keep no fool, sir, till she be married; and
@@ -56,19 +56,19 @@
 			herrings; the husband's the bigger: I am indeed not
 			her fool, but her corrupter of words.
 
-**Viola**:	I saw thee late at the Count Orsino's.
+**Cesario**:	I saw thee late at the Count Orsino's.
 
 **Feste**:	Foolery, sir, does walk about the orb like the sun,
 			it shines every where. I would be sorry, sir, but
 			the fool should be as oft with your master as with
 			my mistress: I think I saw your wisdom there.
 
-**Viola**:	Nay, an thou pass upon me, I'll no more with thee.
+**Cesario**:	Nay, an thou pass upon me, I'll no more with thee.
 			Hold, there's expenses for thee.
 
 **Feste**:	Now Jove, in his next commodity of hair, send thee a beard!
 
-**Viola**:	BY my troth, I'll tell thee, I am almost sock for
+**Cesario**:	BY my troth, I'll tell thee, I am almost sock for
 			one;
 			[Aside]()
 			though I would not have it grown on my chin.
@@ -77,12 +77,12 @@
 
 **Feste**:	Would not a pair of these have bred, sir?
 
-**Viola**:	Yes, being kept together and put to use.
+**Cesario**:	Yes, being kept together and put to use.
 
 **Feste**:	I would play Lord Pandarus of Phyrygia, sir, to bring
 			a Cressida to this Troilus
 
-**Viola**:	I understand you, sir; 'tis will begged.
+**Cesario**:	I understand you, sir; 'tis will begged.
 
 **Feste**:	The matter, I hope, is not greate, sir, begging but
 			a beggar: Cressida was a beggar. My lady is
@@ -92,7 +92,7 @@
 
 [Exit Feste]()
 
-**Viola**:	This fellow is wise enough to play the fool;
+**Cesario**:	This fellow is wise enough to play the fool;
 			And to do that well craves a kind of with:
 			He must observe their mood on whom he jests,
 			The quality of persons, and the time,
@@ -106,23 +106,23 @@
 
 **Sir Toby Belch**:			Save you, gentleman,
 
-**Viola**:					And you, sir.
+**Cesario**:					And you, sir.
 
 **Sir Andrew Aguecheek**:	Dieu vous garde, monsieur.
 
-**Viola**:					Et vous assi; votre serviteur.
+**Cesario**:					Et vous assi; votre serviteur.
 
 **Sir Andrew Aguecheek**:	I hope, sir, you are; and I am yours.
 
 **Sir Toby Belch**:			Will you encounter the house? My neive is desirous
 							you should enter, if you trade be to her.
 
-**Viola**:					I am bound to your niece, sir; I mean, she is the
+**Cesario**:					I am bound to your niece, sir; I mean, she is the
 							list of my voyage.
 
 **Sir Toby Belch**:			I mean, to go, sir, to enter.
 
-**Viola**:					I will answer you with gait and entrance. But we
+**Cesario**:					I will answer you with gait and entrance. But we
 							are prevented.
 							[Enter Olivia and Maria]()
 							Most excellent accomplished lady, the heavens rain
@@ -130,7 +130,7 @@
 
 **Sir Andrew Aguecheek**:	That youth's a rare cortuer: 'Rain odours;' well.
 
-**Viola**:					My matter hath no voice, to your own mast prgnant
+**Cesario**:					My matter hath no voice, to your own mast prgnant
 							and vouchsafed ear.
 
 **Sir Andrew Aguecheek**:	'Odours,' 'pregnant' and 'vouchsafed:' I'll get 'em
@@ -140,23 +140,23 @@
 							[Exeunt Toby, Andrew and Maria]
 							Give me your hand, sir.
 
-**Viola**:					My duty, madam, and most humble service.
+**Cesario**:					My duty, madam, and most humble service.
 
 **Olivia**:					What is your name?
 
-**Viola**:					Cesario is your servant's name, fair princess.
+**Cesario**:					Cesario is your servant's name, fair princess.
 
 **Olivia**:					My servant, sir! 'Twas never merry world
 							Since lowly feigning was call'd compliment:
 							You're servant to the Count Orsino, youth.
 
-**Viola**:					And he is yours, and his must needs be yours:
+**Cesario**:					And he is yours, and his must needs be yours:
 							Your servant's servant is your servant, madam.
 
 **Olivia**:					For him, I think not on him: for his thoughts,
 							Would they were blanks, rather than fill'd with me!
 
-**Viola**:					Madam, I come to whet you gentle thoughts
+**Cesario**:					Madam, I come to whet you gentle thoughts
 							On his behalf.
 
 **Olivia**:					O, by your leave, I pray you,
@@ -165,7 +165,7 @@
 							I had rather hear you to solicit that
 							Than music from the spheres.
 
-**Viola**:					Dear lady, --
+**Cesario**:					Dear lady, --
 
 **Olivia**:					Give me leave, beseech you. I did send,
 							After the last enchantment you did here,
@@ -180,11 +180,11 @@
 							Enough is shown: a cypress, not a bosom,
 							Hideth my heart. So, let me hear you speak.
 
-**Viola**:					I pity you.
+**Cesario**:					I pity you.
 
 **Olivia**:					That's a degree to love.
 
-**Viola**:					No, not a grize: for 'tis a vulgar proof,
+**Cesario**:					No, not a grize: for 'tis a vulgar proof,
 							That very oft we pity enemies.
 
 **Olivia**:					Why, then, methinks 'tis time to smile again.
@@ -198,22 +198,22 @@
 							You were is alike to reap a proper man:
 							There lies your way, due west.
 
-**Viola**:					Then westward-ho! Grace and good disposition
+**Cesario**:					Then westward-ho! Grace and good disposition
 							Attend your ladyship!
 							You'll nothing, madam, to my lord by me?
 
 **Olivia**:					Stay.
 							I prithee, tell me what thou thinkest of me.
 
-**Viola**:					That you do think you are not what you are.
+**Cesario**:					That you do think you are not what you are.
 
 **Olivia**:					If I think so, I think the same of you.
 
-**Viola**:					Then think you right: I am not what I am.
+**Cesario**:					Then think you right: I am not what I am.
 
 **Olivia**:					I would you were as I would have you be!
 
-**Viola**:					Would it be better, madam, than I am?
+**Cesario**:					Would it be better, madam, than I am?
 							I wish it might, for now I am your fool.
 
 **Olivia**:					O, what a deal of scorn look beautuful
@@ -229,7 +229,7 @@
 							But rather reason thus with reason fetter,
 							Love sought is good, but given unsought better.
 
-**Viola**:					By innocence I swear, and by my youth
+**Cesario**:					By innocence I swear, and by my youth
 							I have on heart, one bosom and one truth,
 							And that no woman has; nor never none
 							Shall mistress be of it, save I alone.
@@ -241,7 +241,7 @@
 
 [Exeunt]()
 
-## Scene IV
+## Scene II
 
 [Olivia's garden]()
 
@@ -251,7 +251,7 @@
 					This will so fright them both that they will kill
 					one another by the look, like conckatrices.
 
-[Re-enter Olivia, with Viola]()
+[Re-enter Olivia, with Cesario]()
 
 **Fabian**:			Here he comes with your niece: give them way till
 					he take leave, and presently after him.
@@ -267,7 +267,7 @@
 					But such a headstrong potent fault it is,
 					That it but mocks reproof.
  
-**Viola**:			With the same 'havior that your passion bears
+**Cesario**:			With the same 'havior that your passion bears
 					Goes on my master's griefs.
  
 **Olivia**:			Here, wear this jewel for me, 'tis my picture;
@@ -276,12 +276,12 @@
 					What shall you ask of me that I'll deny,
 					That honour saved may upon asking give?
  
-**Viola**:			Nothing but this; your true love for my master.
+**Cesario**:			Nothing but this; your true love for my master.
  
 **Olivia**:			How with mine honour may I give him that
 					Which I have given to you?
  
-**Viola**:			I will acquit you.
+**Cesario**:			I will acquit you.
  
 **Olivia**:			Well, come again to-morrow: fare thee well:
 					A fiend like thee might bear my soul to hell.
@@ -292,7 +292,7 @@
  
 **Sir Toby Belch**: Gentleman, God save thee. [watch this section on youtube]
  
-**Viola**:			And you, sir.
+**Cesario**:			And you, sir.
  
 **Sir Toby Belch**:	That defence thou hast, betake thee to't. Of what
 					nature the wrongs are thou hast done him, I know
@@ -301,7 +301,7 @@
 					dismount thy tuck, be yare in thy preparation, for
 					thy assailant is quick, skilful and deadly.
  
-**Viola**:			You mistake, sir; I am sure no man hath any quarrel
+**Cesario**:			You mistake, sir; I am sure no man hath any quarrel
 					to me: my remembrance is very free and clear from
 					any image of offence done to any man.
  
@@ -310,7 +310,7 @@
 					your guard; for your opposite hath in him what
 					youth, strength, skill and wrath can furnish man withal.
  
-**Viola**:			I pray you, sir, what is he?
+**Cesario**:			I pray you, sir, what is he?
  
 **Sir Toby Belch**:	He is knight, dubbed with unhatched rapier and on
 					carpet consideration; but he is a devil in private
@@ -319,7 +319,7 @@
 					that satisfaction can be none but by pangs of death
 					and sepulchre. Hob, nob, is his word; give't or take't.
  
-**Viola**:			I will return again into the house and desire some
+**Cesario**:			I will return again into the house and desire some
 					conduct of the lady. I am no fighter. I have heard
 					of some kind of men that put quarrels purposely on
 					others, to taste their valour: belike this is a man
@@ -333,7 +333,7 @@
 					or strip your sword stark naked; for meddle you
 					must, that's certain, or forswear to wear iron about you.
  
-**Viola**:			This is as uncivil as strange. I beseech you, do me
+**Cesario**:			This is as uncivil as strange. I beseech you, do me
 					this courteous office, as to know of the knight what
 					my offence to him is: it is something of my
 					negligence, nothing of my purpose.
@@ -343,12 +343,12 @@
  
 [Exit]()
  
-**Viola**:			Pray you, sir, do you know of this matter?
+**Cesario**:			Pray you, sir, do you know of this matter?
  
 **Fabian**:			I know the knight is incensed against you, even to a
 					mortal arbitrement; but nothing of the circumstance more.
  
-**Viola**:			I beseech you, what manner of man is he?
+**Cesario**:			I beseech you, what manner of man is he?
  
 **Fabian**:			Nothing of that wonderful promise, to read him by
 					his form, as you are like to find him in the proof
@@ -357,7 +357,7 @@
 					have found in any part of Illyria. Will you walk
 					towards him? I will make your peace with him if I can.
  
-**Viola**:			I shall be much bound to you for't: I am one that
+**Cesario**:			I shall be much bound to you for't: I am one that
 					had rather go with sir priest than sir knight: I
 					care not who knows so much of my mettle.
  
@@ -386,7 +386,7 @@
 					on't: this shall end without the perdition of souls.
 					[Aside]
 					Marry, I'll ride your horse as well as I ride you.
-					[Re-enter FABIAN and VIOLA]()
+					[Re-enter FABIAN and Cesario]()
 					[To FABIAN]()
 					I have his horse to take up the quarrel:
 					I have persuaded him the youth's a devil.
@@ -394,13 +394,13 @@
 **Fabian**:			He is as horribly conceited of him; and pants and
 					looks pale, as if a bear were at his heels.
  
-**Sir Toby Belch**:	[To VIOLA]() There's no remedy, sir; he will fight
+**Sir Toby Belch**:	[To Cesario]() There's no remedy, sir; he will fight
 					with you for's oath sake. Marry, he hath better
 					bethought him of his quarrel, and he finds that now
 					scarce to be worth talking of. Therefore draw, for
 					the supportance of his vow; he protests he will not hurt you.
  
-**Viola**:			[Aside]() Pray God defend me! A little thing would
+**Cesario**:			[Aside]() Pray God defend me! A little thing would
 					make me tell them how much I lack of a man.
  
 **Fabian**:			Give ground, if you see him furious.
@@ -413,7 +413,7 @@
  
 **Sir Andrew Aguecheek**:	Pray God, he keep his oath!
  
-**Viola**:			I do assure you, 'tis against my will.
+**Cesario**:			I do assure you, 'tis against my will.
  
 [They draw]()
  
@@ -438,7 +438,7 @@
  
 **Sir Toby Belch**:	I'll be with you anon.
  
-**Viola**:			Pray, sir, put your sword up, if you please.
+**Cesario**:			Pray, sir, put your sword up, if you please.
  
 **Sir Andrew Aguecheek**:	Marry, will I, sir; and, for that I promised you,
 							I'll be as good as my word: he will bear you easily
@@ -455,7 +455,7 @@
 					Take him away: he knows I know him well.
  
 **Antonio**:		I must obey.
-					[To VIOLA]()
+					[To Cesario]()
 					This comes with seeking you:
 					But there's no remedy; I shall answer it.
 					What will you do, now my necessity
@@ -468,7 +468,7 @@
  
 **Antonio**:		I must entreat of you some of that money.
  
-**Viola**:			What money, sir?
+**Cesario**:			What money, sir?
 					For the fair kindness you have show'd me here,
 					And, part, being prompted by your present trouble,
 					Out of my lean and low ability
@@ -483,7 +483,7 @@
 					As to upbraid you with those kindnesses
 					That I have done for you.
  
-**Viola**:			I know of none;
+**Cesario**:			I know of none;
 					Nor know I you by voice or any feature:
 					I hate ingratitude more in a man
 					Than lying, vainness, babbling, drunkenness,
@@ -515,7 +515,7 @@
  
 [Exit with Officers]()
  
-**Viola**:			Methinks his words do from such passion fly,
+**Cesario**:			Methinks his words do from such passion fly,
 					That he believes himself: so do not I.
 					Prove true, imagination, O, prove true,
 					That I, dear brother, be now ta'en for you!
@@ -523,7 +523,7 @@
 **Sir Toby Belch**:	Come hither, knight; come hither, Fabian: we'll
 					whisper o'er a couplet or two of most sage saws.
  
-**Viola**:			He named Sebastian: I my brother know
+**Cesario**:			He named Sebastian: I my brother know
 					Yet living in my glass; even such and so
 					In favour was my brother, and he went
 					Still in this fashion, colour, ornament,

@@ -1,6 +1,6 @@
 # Act I
 
-## Scene II
+## Scene I
 
 [At sea on a boat]
 
@@ -94,29 +94,29 @@
 
 **Viola**:	 I thank thee: lead me on.
 
-## Secne IV
+## Secne II
 
 [Duke Orsino's palace]
 
-[Enter Valentine and Viola in man's attire]
+[Enter Valentine and Cesario in man's attire]
 
 **Valentine**:	If theduke continue theses favours towards you,
 				Cesario, you are like to be much advanced: he hath
 				known you but three days, and already you are no stranger.
 
-**Viola**:		You either fear his humour or my negligence, that
+**Cesario**:		You either fear his humour or my negligence, that
 				you call in question the continuance of his love:
 				is he inconstant, sir, in his favours?
 
 **Valentine**:	No, believe me.
 
-**Viola**:		I thank you. Here comes the count
+**Cesario**:		I thank you. Here comes the count
 
 [Enter Duke Orsino, Curio, and Attendants]
 
 **Orsino**:		Who saw Cesario, ho?
 
-**Viola**:		On you attendance, my lord; here.
+**Cesario**:		On you attendance, my lord; here.
 
 **Orsino**:		Stand you awhile aloof, Cesario,
 				Thou know'st no less but all; I have unclasp'd
@@ -126,14 +126,14 @@
 				And tell them, there thy fixed foot shall grow
 				Till thou have audience.
 
-**Viola**:		Sure, my noble lord,
+**Cesario**:		Sure, my noble lord,
 				If she be so abandon'd to her sorrow
 				As it is spoke, she never will admit me.
 
 **Orsino**:		Be clamorous and leap all civil bounds
 				Rather thn make unprofited return.
 
-**Viola**:		Say I do speak with her, my lord, what then?
+**Cesario**:		Say I do speak with her, my lord, what then?
 
 **Orsino**:		O, then unfold the passion of my love,
 				Surprise her with discourse of my dear faith:
@@ -141,7 +141,7 @@
 				She will attend it better in thy youth
 				Than in a nunvio's of more grave aspect.
 
-**Viola**:		I think not so, my lord.
+**Cesario**:		I think not so, my lord.
 
 **Orsino**:		Dear lad, believe it;
 				For they shall yet belie thy happy years,
@@ -156,271 +156,86 @@
 				And thou shalt live as freely as thy lord,
 				To call his fortunes thine.
 
-**Viola**:		I'll do my best
+**Cesario**:		I'll do my best
 				To woo your lady:
 				[Aside]
 				Yet, a barful strife!
 				Whoe'er I woo, myself would be his wife.
 
-## Scene V
+## Scene III
 
-### Rewrite from Viola's perspective
+[Courtyard at Olivia's]()
+
+[Enter Cesario, Maria, Sir Toby and Soldiers]()
+
+**Sir Toby**:	Halt! Who would enter my Lady's courtyard?
+
+**Cesario**:	A man who comes in envoy to speak with your Lady.
+
+**Sir Toby**:	[To Maria] Go and tell your Lady of this man's arrival.
+				[To Cesario] From whence have you come, sir?
+
+**Cesario**:	From a land filled with many fine things
+
+**Sir Toby**:	Why be it that you com so well attained?
+
+[Enter Maria and Malvolio]()
+
+**Cesario**:	To show my proprietor's ability to those he trusts.
+
+[Exit Sir Toby]()
+
+**Malvolio**:	Good sir, I would welcome you my Lady's court,
+				But she would know from whense you came.
+
+**Cesario**:	I come from the land Illyria.
+
+**Malvolio**:	Do you bring suit from the count?
+
+**Cesario**:	I bring his goodwill and a message well crafted.
+
+**Malvolio**:	My Lady will not hear the suit from Orsino.
+
+**Cesario**:	I needs must deliver my message which has been so well crafted.
+
+**Malvolio**:	My Lady has heard many these suits and will not hear another.
+
+[Re-enter Sir Toby]()
+
+**Cesario**:	I bring not a suit, but a plea. That is, to speak with your Lady.
+
+**Malvolio**:	You will not go then?
+
+**Cesario**:	No, sir. I will not go.
+
+[Exit Malvolio and Maria]()
+
+**Sir Toby**:	Will you stay 'till morn? Or will you depart by night?
+
+**Cesario**:	If your Lady hears me well, I shall be on the way by morn.
+
+**Sir Toby**:	Then there shal be sac tonight, if you be there.
+
+[Enter Malvolio]()
+
+**Malvolio**:	My Lady would see you, sir.
+
+**Cesario**:	I thank thee: lead me on, sir.
+
+[Exit All]
+
+## Scene IV
 
 [Olivia's house]
 
-[Enter Maria and Clown(Feste)]
+[Enter Olivia, Cesario and Attendants]
 
-**Maria**:	Nay, either tell me where thou hast been, or I will
-			not open my lips so wide as a bristle may enter in
-			way of thy excuse: my lady will hange thee for they absence.
-
-**Feste**:	Let her hange me: he that is well hanged in this
-			world need to fear no colours.
-
-**Maria**:	Make that good.
-
-**Feste**:	He shell see none to fear.
-
-**Maria**:	A good lenten answer: I can tell thee where that
-			saying was bor, of 'I fear no colours'
-
-**Feste**:	Where, good Misstress Mary?
-
-**Maria**:	In the wars; an that may you be bold to say in your foolery.
-
-**Feste**:	Well, God give them wisdom that have it; and those
-			that are fools, let them use their talents.
-
-**Maria**:	Yet you will be hanged for being so long absent; or,
-			to be turned away, is not that as good as hanging to you?
-
-**Feste**:	Many a good hanging prevents a bad marriage; and,
-			for turning away, let summer bear it out.
-
-**Maria**:	You are resolute, then?
-
-**Feste**:	Not so, neither; but I am resolved on two points.
-
-**Maria**:	That if one break, the other will hold; or, if both
-			break, your gaskins fall.
-
-**Feste**:	Apt, in good faith; very apt. Well, to thy way; if
-			Sir Toby would leave drinking, thou wert as witty a
-			piece of Eve's flesh as any in Illyria.
-
-**Maria**;	Peace, you rouge, no more o' that. Here come my
-			layd; make your excuse wisely, wer were best.[Exit]
-
-**Feste**:	Wit, an't by thy will, put me into good fooling!
-			Those wits, that think they have thee, do very oft
-			prove fools; and I, that am sure I lack thee, may
-			pass for a wise man: for what says Quinapalus?
-			'Better a witty fool, than a foolish wit.'
-			[Enter Olivia with Malvolio]
-			God bless thee, lady!
-
-**Olivia**:	Take the fool away.
-
-**Feste**:	Do you not hear, fellows? Take away the lady.
-
-**Olivia**:	Go to, you're a dry fool; I'll no more of you:
-			besides, you grow dishonest
-
-**Feste**:	Two faults, madonna, that drink and good counsel
-			will amend: for give the dry fool drink, then is
-			the fool not dry: bid the dishonest man mend
-			himself; if he mend, he is no longer dishonest; if
-			he cannot, let the botcher mend him. Anything
-			that's mended is but patched: virtue that
-			transgresses is but patched with sin; and sin that
-			amends is but patched with virute. If that this
-			simple syllogism will serve, so; if it will no,
-			what remedy? As there is no true cuckold but
-			calamity, so beauty's a flower. The lady bade take
-			away the fool; therefore, I say again, take her away.
-
-**Olivia**:	Sir, I bade them take you away.
-
-**Feste**:	Misprision in the highest degree! Lady, cucullus non
-			facit monachum; that's as much to say as I wear not
-			motley in my brain. Good madonna, give me leave to 
-			prove you a fool.
-
-**Olivia**:	Can you do it?
-
-**Feste**:	Dexterously, good madonna.
-
-**Olivia**:	Make your proof.
-
-**Feste**:	I must cateschise you for it, madonna: good my mouse
-			of virtue, anser me.
-
-**Olivia**:	Well, sir, for want of other idleness, I'll bide your proof.
-
-**Feste**:	Good madonna, why mournest thou?
-
-**Olivia**:	Good fool, for my brother's death.
-
-**Feste**:	I think his soul is in hell, madonna.
-
-**Olivia**:	I know his soul is in heaven, fool.
-
-**Feste**:	The more fool, madonna, to mourn for your brother's
-			soul being in heaven. Take away the fool, gentlemen.
-
-**Olivia**:	What think you of this fool, Malvolio? doth he no mend?
-
-**Malvolio**:	Yes, and do till the pangs of death shake him:
-				infirmity, that decays the wise, doth ever make the
-				better fool.
-
-**Feste**:		God send you, sir, a speedy infirmity, for the
-				better increasing your folly! Sir Toby will be
-				sworn that I am no fox; but he will not pass his
-				word for two pence that you are no fool.
-
-**Olivia**:		How say you to that, Malvolio?
-
-**Malvolio**:	I marvel your ladyship takes delight in such a
-				barren rascal: I saw him put down the other day
-				with an ordinary fool that has no more brain
-				than a stone. Look you now, he's out of his guard
-				already; unless you laugh and minister occasion to
-				him, he is gagged. I protest, I take these wise men,
-				that crow so that these set kind of fools, no better
-				than the fools' zanies.
-
-**Olivia**:		Oh, you are sick of self-love, Malvolio, and taste
-				with a distempered appetite. To be generous,
-				guiltless and of free disposition, is to take those
-				things for bird-bolts that you deem cannon-bullets:
-				there is no slander in an allowed fool, though he do
-				nother but rail; nor no railing in a known descreet
-				man, though he do nother be reprove.
-
-**Feste**:		Now Mercury endue thee with leasing, for thou
-				speakest well of fools!
-
-[Re-enter Maria]
-
-**Maria**:		Madam, there is at the gate a young gentleman much
-				desires to speak with you.
-
-**Olivia**:		From the Count Orsino, is it?
-
-**Maria**:		I know not, madam: 'tis a fair young man, and well attended.
-
-**Olivia**:		Who of my people hold him in delay?
-
-**Maria**:		Sir Toby, madam, your kinsman.
-
-**Olivia**:		Fetch him off, I pray you; he speaks nothing but
-				madman: fie on him!
-				[Exit Maria]
-				Go you, Malvolio: if it be a suit from the count, I
-				am sick, or not at home; what you will, to dismiss it.
-				[Exit Malvolio]
-				Now you see, sir, how your fooling grows old, and
-				people dislike it.
-
-**Feste**:		Thou hast spoke for us, madonna, as if thy eldest
-				son should be a fool; whose skull Jove cram with
-				brains! for, -- here he comes, -- one of thy kin has a
-				most weak pia mater.
-
-[Enter Sir Toby Belch]
-
-**Olivia**:		By mine honour, half drunk. What is he at the gate, cousin?
-
-**Sir Toby Belch**:	A gentleman.
-
-**Olivia**:			A gentleman! What gentleman?
-
-**Sir Toby Belch**:	'Tis a gentle man here -- a plague o' these
-					pickle-herring! How now, sot!
-
-**Feste**: 			Good Sir Toby!
-
-**Olivia**:			Cousin, cousin, how have you come so early by this lethargy?
-
-**Sir Toby Belch**:	Lechery! I defy lechery. There's one at the gate.
-
-**Olivia**:			Ay, marry, what is he?
-
-**Sir Toby Belch**:	Let him be the devil, an he will, I care not: give
-					me faith, say I. Will, it's all one.
-
-[Exit]
-
-**Olivia**:			What's a drunken man like, fool?
-
-**Feste**:			Like a drowned man, a fool and a mad man: one
-					draft above heat makes him a fool; the second mads
-					him; and a third drowns him.
-
-**Olivia**:			Go thou and seek the crowner, and let him sit o' my
-					coz; for he's in the third degree of drink, he's
-					drowned: go, look after him.
-
-**Feste**:			His is but mad yet, madonna; and the fool shall look
-					to the madman.
-
-[Exit]
-
-[Re-enter Malvolio]
-
-**Malvolio**:		Madam, yound you fellow swears he will speak with
-					you. I told him you were sick; he takes on him to
-					understand so much, and therefore comes to speak
-					with you. I told him you were asleep; he seems to
-					have a foreknowledge of that too, and therefore
-					comes to speak with you. What is to be said to him,
-					lady? He's fortified against any denial.
-
-**Olivia**:			Tell him he shall not speak with me.
-
-**Malvolio**:		Has been told so; and he says, he'll stand at your
-					door like a sheriff's post, and be the supporter to
-					a bench, but he'll speak with you.
-
-**Olivia**:			What kind o' man is he?
-
-**Malvolio**:		Why, of mankind.
-
-**Olivia**:			What manner of man?
-
-**Malvolio**:		Of very ill manner; he'll speak with you, will you or no.
-
-**Olivia**:			Of what personage and years is he?
-
-**Malvolio**:		Not yet old enough for a man, nor young enough for
-					a boy; as a squash is before 'tis peascod, or a
-					codling when 'tis almost an apple; 'tis with him
-					in standing water, between boy and man. He is very
-					well-favoured and he speaks very shrewishly; one
-					would think his mother's milk were scarce out of him.
-
-**Olivia**:			Let him approach: call in my gentlewoman.
-
-**Malvolio**:		Gentlewoman, my lady calls.
-
-[Exit]
-
-[Re-enter Maria]
-
-**Olivia**:			Give me my veil: come, throw it o'er my face.
-					We'll once more hear Orsino's embassy.
-
-### end rewritten section
-
-[Enter Viola and Attendants]
-
-**Viola**:	The honorable lady of the house, which is she?
+**Cesario**:	The honorable lady of the house, which is she?
 
 **Olivia**:	Speak to me; I shall answer for her.
 			Your will?
 
-**Viola**:	Most radiant, exquisite and unmatchable beauty, -- I
+**Cesario**:	Most radiant, exquisite and unmatchable beauty, -- I
 			pray you, tell me if this be the lady of the house,
 			for I never saw her: I would be loath to cast away
 			my speech, for beside that it is excellently well
@@ -430,20 +245,20 @@
 
 **Olivia**:	Whence came you, sir?
 
-**Viola**:	I can say little more than I have studied, and that
+**Cesario**:	I can say little more than I have studied, and that
 			question's out of my part. Good gentle one, give me
 			modest assurance if you be the lady of the house,
 			that I may proceed in my speech.
 
 **Olivia**:	Are you a comedian?
 
-**Viola**:	No, my profound heart: and yet, by the very fangs
+**Cesario**:	No, my profound heart: and yet, by the very fangs
 			of malice I swear, I am not that I play. Are you
 			the lady of the house?
 
 **Olivia**:	If I do not ursurp myself, I am.
 
-**Viola**:	Most certain, if you are she, you do usurp
+**Cesario**:	Most certain, if you are she, you do usurp
 			youself; for what is yours to bestow is not yours
 			to reserver. But this is from my commission: I will
 			on with my speech in your praise, and then show you
@@ -451,7 +266,7 @@
 
 **Olivia**:	Come to what is important in't: I forgive you the praise.
 
-**Viola**:	Alas, I took great pains to study it, and 'tis poetical.
+**Cesario**:	Alas, I took great pains to study it, and 'tis poetical.
 
 **Olivia**:	It is the more like to be feigned: I pray you,
 			keep it in. I heard you were saucy at my gates,
@@ -462,20 +277,20 @@
 
 **Maria**:	Will you hoist sail, sir? Here lies your way.
 
-**Viola**:	No, good swabber; I am to hull here a little
+**Cesario**:	No, good swabber; I am to hull here a little
 			longer. Some mollification for you giant, sweet
 			lady. Tell me your min: I am a messenger.
 
 **Olivia**:	Sure, you have some hideous matter to deliver, when
 			the courtesy of it is so fearful. Speak your office.
 
-**Viola**:	It alone concerns your ear. I bring no overture of
+**Cesario**:	It alone concerns your ear. I bring no overture of
 			war, no taxation of homage: I hold the olive in my
 			hand, my words are as fun of peace as matter.
 
 **Olivia**:	Yet you began rudely. What are you? What would you?
 
-**Viola**:	The rudeness that hath appeared in me have I
+**Cesario**:	The rudeness that hath appeared in me have I
 			learned from my entertainment. What I am, and what I
 			would, are as secret as maidenhead; to your ears,
 			divinity, to any other's profanation.
@@ -484,20 +299,20 @@
 			[Exeunt Maria and Attentants]
 			Now, sir, what is your text?
 
-**Viola**:	Most sweet lady, --
+**Cesario**:	Most sweet lady, --
 
 **Olivia**:	A comfortable doctrine, and much may be said of it.
 			Where lies your heart?
 
-**Viola**:	In Orsino's bosom.
+**Cesario**:	In Orsino's bosom.
 
 **Olivai**:	In his bosom! In what chapter of his bosom?
 
-**Viola**:	To answer by the method, in the first of his heart.
+**Cesario**:	To answer by the method, in the first of his heart.
 
 **Olivia**:	O, I have read it: it is heresy. Have you no more to say?
 
-**Viola**:	Good madam, let me see your face.
+**Cesario**:	Good madam, let me see your face.
 
 **Olivia**:	Have you any commission from your lord to negotiate
 			with my face? You are now out of your text: but
@@ -507,11 +322,11 @@
 
 [Unveiling]
 
-**Viola**:	Excellently done, if God did all.
+**Cesario**:	Excellently done, if God did all.
 
 **Olivia**:	'Tis in grain, sir, 'twill endure wind and weather.
 
-**Viola**:	'Tis beauty truly blent, whose red and white
+**Cesario**:	'Tis beauty truly blent, whose red and white
 			Nature's own sweet and cunning hand laid on:
 			Lady, you are the cruell'st she alive,
 			If you will lead these graces to the grave
@@ -525,7 +340,7 @@
 			them; item, one nech, one chin, and so forth. Were
 			you sent hither to praise me?
 
-**Viola**:	I see you what you are, you are too proud;
+**Cesario**:	I see you what you are, you are too proud;
 			But, if you were the devil, you are fair.
 			My lod and master loves you: O, such love
 			Could be but recompensed, though you were crown'd
@@ -533,7 +348,7 @@
 
 **Olivia**:	How does he love me?
 
-**Viola**:	With adorations, fertile tears,
+**Cesario**:	With adorations, fertile tears,
 			With groans that thunder love, with sighs of fire.
 
 **Olivia**:	Your lord dies know my mind; I cannot love him:
@@ -544,14 +359,14 @@
 			A gracious person: but yet I cannot love him;
 			He might have took his answer long ago.
 
-**Viola**:	If I did love you in my master's flame,
+**Cesario**:	If I did love you in my master's flame,
 			With such a suffering, such a deadly life,
 			In you denial I would find no sense;
 			I would not understand it.
 
 **Olivia**:	Why, what would you?
 
-**Viola**:	Make me a willow cabin at your gate,
+**Cesario**:	Make me a willow cabin at your gate,
 			And call upon my soul within the house;
 			Write loyal cantons of contemned love
 			And sing them loud even in the dead of night;
@@ -564,7 +379,7 @@
 **Olivia**:	You might do much.
 			What is your parentage?
 
-**Viola**:	Above my fortunes, yet my state is well:
+**Cesario**:	Above my fortunes, yet my state is well:
 			I am a gentleman.
 
 **Olivia**:	Get you to your lord;
@@ -575,7 +390,7 @@
 
 [Olivia hands Cesario a coin]
 
-**Viola**:	I am no fee'd post, lady; keep your purse:
+**Cesario**:	I am no fee'd post, lady; keep your purse:
 			My master, not myself, lack recompense.
 			Love make his heart of flint that you shall love;
 			And let your fervor, like my master's, be

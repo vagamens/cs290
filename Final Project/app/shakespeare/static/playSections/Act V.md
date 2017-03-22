@@ -1,4 +1,4 @@
-# Act V
+# Act IV
 
 [Before Olivia's house]()
 
@@ -63,7 +63,7 @@
  
 [Exit Feste]()
  
-**Viola**:			Here comes the man, sir, that did rescue me.
+**Cesario**:			Here comes the man, sir, that did rescue me.
  
 [Enter ANTONIO and Officers]()
  
@@ -84,7 +84,7 @@
 					Here in the streets, desperate of shame and state,
 					In private brabble did we apprehend him.
  
-**Viola**:			He did me kindness, sir, drew on my side;
+**Cesario**:			He did me kindness, sir, drew on my side;
 					But in conclusion put strange speech upon me:
 					I know not what 'twas but distraction.
  
@@ -115,7 +115,7 @@
 					Which I had recommended to his use
 					Not half an hour before.
  
-**Viola**:			How can this be?
+**Cesario**:			How can this be?
  
 **Orsino**:			When came he to this town?
  
@@ -134,13 +134,13 @@
 					Wherein Olivia may seem serviceable?
 					Cesario, you do not keep promise with me.
  
-**Viola**:			Madam!
+**Cesario**:			Madam!
  
 **Orsino**:			Gracious Olivia,—
  
 **Olivia**:			What do you say, Cesario? Good my lord,—
  
-**Viola**:			My lord would speak; my duty hushes me.
+**Cesario**:			My lord would speak; my duty hushes me.
  
 **Olivia**:			If it be aught to the old tune, my lord,
 					It is as fat and fulsome to mine ear
@@ -173,12 +173,12 @@
 					I'll sacrifice the lamb that I do love,
 					To spite a raven's heart within a dove.
  
-**Viola**:			And I, most jocund, apt and willingly,
+**Cesario**:			And I, most jocund, apt and willingly,
 					To do you rest, a thousand deaths would die.
  
 **Olivia**:			Where goes Cesario?
  
-**Viola**:			After him I love
+**Cesario**:			After him I love
 					More than I love these eyes, more than my life,
 					More, by all mores, than e'er I shall love wife.
 					If I do feign, you witnesses above
@@ -186,7 +186,7 @@
  
 **Olivia**:			Ay me, detested! How am I beguiled!
  
-**Viola**:			Who does beguile you? Who does do you wrong?
+**Cesario**:			Who does beguile you? Who does do you wrong?
  
 **Olivia**:			Hast thou forgot thyself? Is it so long?
 					Call forth the holy father.
@@ -201,7 +201,7 @@
  
 **Orsino**:			Her husband, sirrah!
  
-**Viola**:			No, my lord, not I.
+**Cesario**:			No, my lord, not I.
  
 **Olivia**:			Alas, it is the baseness of thy fear
 					That makes thee strangle thy propriety:
@@ -232,7 +232,7 @@
 					Farewell, and take her; but direct thy feet
 					Where thou and I henceforth may never meet.
  
-**Viola**:			My lord, I do protest—
+**Cesario**:			My lord, I do protest—
  
 **Olivia**:			O, do not swear!
 					Hold little faith, though thou hast too much fear.
@@ -259,7 +259,7 @@
 							nothing; and that that I did, I was set on to do't
 							by Sir Toby.
  
-**Viola**:			Why do you speak to me? I never hurt you:
+**Cesario**:			Why do you speak to me? I never hurt you:
 					You drew your sword upon me without cause;
 					But I bespoke you fair, and hurt you not.
  

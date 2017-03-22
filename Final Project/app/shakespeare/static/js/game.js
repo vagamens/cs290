@@ -1,3 +1,6 @@
+var sceneData = {};
+var curLoc = 0;
+
 function addNav(element) {
 	var nav = document.getElementById('nav');
 	var li = document.createElement('li');
@@ -68,6 +71,43 @@ function addJSONMain(j) {
 	}
 }
 
+function updateName() {
+	var name = document.getElementById('name');
+	name.innerHTML = sceneData.scene[curLoc].name;
+}
+
+function updateLine() {
+	var line = document.getElementById('line');
+	if(sceneData.scene[curLoc].line.indexOf('\n') > -1) {
+		line.innerHTML = '';
+		var br = document.createElement('br');
+		rows = sceneData.scene[curLoc].line.split('\n');
+		for(row in rows) {
+			line.innerHTML = line.innerHTML + rows[row];
+			line.appendChild(br);
+		}
+	} else {
+		line.innerHTML = sceneData.scene[curLoc].line;
+	}
+}
+
+function updateActScene() {
+	var actScene = document.getElementById('actScene');
+	actScene.innerHTML = 'Act: ' + sceneData.a + '  Scene: ' + sceneData.s;
+}
+
+function updateScene() {
+	if (curLoc >= sceneData.scene.length) {
+		curLoc=0;
+		data= {'command':'getNextScene', 'a':sceneData.a, 's':sceneData.s};
+		sendRequest(data)
+	}
+	updateActScene();
+	updateName();
+	updateLine();
+	curLoc+=1;
+}
+
 function sendRequest(data) {
 	var xmlhttp = null;
 	if (window.XMLHttpRequest) {
@@ -79,8 +119,15 @@ function sendRequest(data) {
 	xmlhttp.setRequestHeader("Content-type", "application/json");
 	xmlhttp.onreadystatechange = function (e) {
 		if(xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-			addJSONMain(xmlhttp.response);
+			sceneData = JSON.parse(xmlhttp.response);
+			curLoc = 0;
+			updateScene();
 		}
 	};
 	xmlhttp.send(JSON.stringify(data));
+}
+
+function run() {
+	var data = {'command': 'getFirstScene'};	
+	sendRequest(data);
 }

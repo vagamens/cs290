@@ -1,5 +1,7 @@
-from random import randint
+import re
 import time
+from flask import url_for
+from random import randint
 
 class Insult(object):
 
@@ -61,92 +63,103 @@ class Insult(object):
 		return s
 
 class Lines(object):
-	"""docstring for Lines"""
-	lines = {}
-
-	lines['acti']['sceneI'] = [{'image': 'boat.png', 'people':['viola', 'captain', 'sailors']},
-					 {'name':'Viola', 'line': 'What country, friends, is this?'},
-					 {'name':'Captain', 'line': 'This is Illyria, lady.'},
-					 {'name':'Viola', 'line': """And what should I do in Illyria?
-				 								 My brother he is in Elysium.
-			 									 Perchance he is not drown'd: what think you, sailors?"""
-			 	 	 },
-					 {'name':'Captain', 'line': 'It is perchance that you yourself were saved.'},
-					 {'name':'Viola', 'line': 'O my poor brother! and so perchance may he be.'},
-					 {'name':'Captain', 'line': """True, madam: and, to comfort you with chance,
-				 								   Assure yourself, after our ship did split,
-			 									   When you and those poor number saved with you
-			 									   Hung on our driving boat, I saw your brother,
-			 									   Most provident in peril, bind himself,
-			 									   Courage and hope both teaching him the practice,
-			 									   To a string mast that lived upon the sea;
-			 									   Where, like Arion on the dolphin's back,
-			 									   I saw him hold acquaintance with the waved
-			 									   So long as I could see."""},
-					  {'name':'Viola', 'line': """For saying so, there's gold:
-					  							  Mine own escape unfoldeth to my hope,
-					  							  Where to thy speech serves for authority,
-					  							  The like of him. Know'st though this counrty?
-					  						   """},
-					  {'name':'Captain', 'line': """Ay, madam, well: for I was bred and born
-					  								Not three hours' travel from this very place.
-					  						     """},
-					  {'name':'Viola', 'line': 'Who governs here?'},
-					  {'name':'Captain', 'line': 'A noble duke, in nature as in name.'},
-					  {'name':'Viola', 'line': 'What is the name?'},
-					  {'name':'Captain', 'line': 'Orsino.'},
-					  {'name':'Viola', 'line': """Orsino! I have heard my father name him:
-					  							  He was a bachelor then.
-					  						   """},
-					  {'name':'Captain', 'line': """And so is now, or was so very late:
-					  								For but a month ago I went from hence,
-					  								And then \'twas freshin murmur, -- as, you know,
-					  								What gread ones do the less will prattle of, --
-					  								THat he did seek the love of fair Olivia.
-					  							 """},
-					  {'name':'Viola', 'line': ''},
-					  {'name':'Captain', 'line': ''},
-					  {'name':'Viola', 'line': ''},
-					  {'name':'Captain', 'line': ''}
-					  {'name':'Viola', 'line': ''},
-					  {'name':'Captain', 'line': ''},
-					  {'name':'Viola', 'line': ''},
-					  {'name':'Captain', 'line': ''},
-					  {'name':'Viola', 'line': ''},
-					  {'name':'Captain', 'line': ''}
-					  {'name':'Viola', 'line': ''},
-					  {'name':'Captain', 'line': ''},
-					  {'name':'Viola', 'line': ''},
-					  {'name':'Captain', 'line': ''},
-					  {'name':'Viola', 'line': ''},
-					  {'name':'Captain', 'line': ''}			 		
-					]
-
-	lines['actii'] = [{'name':'', 'line': ''},
-					  {'name':'', 'line': ''},
-					  {'name':'', 'line': ''},
-					  {'name':'', 'line': ''},
-					  {'name':'', 'line': ''},
-					  {'name':'', 'line': ''}
-					 ]
-
-	lines['actiii'] = [{'name':'', 'line': ''},
-					   {'name':'', 'line': ''},
-					   {'name':'', 'line': ''},
-					   {'name':'', 'line': ''},
-					   {'name':'', 'line': ''},
-					   {'name':'', 'line': ''}
-					  ]
-					  
-	lines['activ'] = [{'name':'', 'line': ''},
-					  {'name':'', 'line': ''},
-					  {'name':'', 'line': ''},
-					  {'name':'', 'line': ''},
-					  {'name':'', 'line': ''},
-					  {'name':'', 'line': ''}
-					 ]
+	"""parse and collecte script lines"""
+	@staticmethod
+	def removeWhiteSpace(line):
+		if(line == '' or line == '\n'):
+			return ''
+		if(line[0] == "\t"):
+			line = line[1:]
+		elif(line[0] == ' '):
+			line = line[1:]
+		elif(line[-1] == ' '):
+			line = line[:-1]
+		elif(line[-1] == '\n'):
+			line = line[:-1]
+		else:
+			return line
+		return Lines.removeWhiteSpace(line)
 
 	@staticmethod
-	def nextScene(act, scene):
-		pass
+	def getName(line):
+		if re.match("^[*]", line[0]):
+			index = 2
+			for i in range(2, len(line)):
+				if re.match("[*]", line[i]):
+					index = i
+					break
+			name = line[2:index]
+			line = line[index+3:]
+		else:
+			return (None, line)
+		return (name, line)
+
+	@staticmethod
+	def parseRoman(line):
+		line = line.split(' ')[2]
+		val = 0
+		for i in range(len(line)):
+			if line[i] == 'I':
+				val+=1
+			elif line[i] == 'V':
+				if val > 0:
+					val = 5-val
+				else:
+					val+=5
+		return val
+
+
+	@staticmethod
+	def getLines():
+		lines = {1:{1:[], 2:[], 3:[], 4:[]}, 2:{}, 3:{}, 4:{}}
 		
+		with open("app/shakespeare/static/script.md", 'r') as f:
+			act = 0
+			scene = 0
+			l = {'name':'', 'line':''}
+			for line in f:
+				name, line = Lines.getName(line)
+				line = line
+				if name != None:
+					lines[act][scene].append(l)
+					l = {}
+					l['name'] = name
+					l['line'] = ''
+				if line[0] == "#":
+					num = Lines.parseRoman(line)
+					if line[1] == ' ':
+						act = num
+						lines[act] = {}
+					elif line[1] == "#":
+						scene = num
+						lines[act][scene] = []
+				if line[0] == "#":
+					pass
+				elif line[0] == '[':
+					pass
+				else:
+					l['line'] = l['line']+Lines.removeWhiteSpace(line)+"\n"
+
+		for act in lines:
+			for scene in lines[act]:
+				for line in range(len(lines[act][scene])):
+					lines[act][scene][line]['line'] = Lines.removeWhiteSpace(lines[act][scene][line]['line'])
+				for line in range(len(lines[act][scene]), 0):
+					if lines[act][scene][line]['line'] == '':
+						if lines[act][scene][line]['name'] == '':
+							lines[act][scene].pop(line)
+		return lines
+
+	@staticmethod
+	def getScene(act, scene):
+		lines = Lines.getLines()
+		print lines[act][scene]
+		return lines[act][scene]
+
+	@staticmethod
+	def getNextScene(act, scene):
+		lines = Lines.getLines()
+		if scene == len(lines[act])-1:
+			return (act+1, 1, Lines.getScene(act+1, 1))
+		else:
+			return (act, scene+1, Lines.getScene(act, scene+1))

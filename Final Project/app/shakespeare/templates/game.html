@@ -4,15 +4,20 @@
 {% endblock %}
 {% block body %}
 <main id="main" style="background-image: url({{ url_for('shakespeare.static', filename='imgs/street.png') }})">
+	<div class="actScene">
+		<p class="name" id="actScene">
+			Act: 2 Scene: 1
+		</p>
+	</div>
 	<div class="name">
-		<p class="name">Curio</p>
+		<p class="name" id="name">Curio</p>
 	</div>
 	<div class="text">
-		<p class="text">
+		<p class="text" id="line">
 			Feste, the jester, my lord; a fool that the lady<br>
 			Olivia's fater took much delight in. He is about the house.
 		</p>
 	</div>
-	<a class="next" href="javascript:next()">&gt;&gt;&gt;</a>
+	<a class="next" href="javascript:updateScene()">&gt;&gt;&gt;</a>
 </main>
 {% endblock %}

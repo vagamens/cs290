@@ -11,6 +11,19 @@ main {
 	right: 0;
 }
 
+.actScene {
+	margin: auto;
+	border: 2px solid #eee;
+	height: 1.5em;
+	min-width: 3em;
+	background: #333;
+	color: #eee;
+	position: absolute;
+	left: 700px;
+	top: 10px;
+
+}
+
 p.text {
 	width:100%;
 }
